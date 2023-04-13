@@ -9,5 +9,5 @@ public class Constant : MonoBehaviour
     public static int Banana = 4;
     public static int Basaha = 7;
     public static int Peach = 10;
-    public static int Sandia = 13;
+    public static int Sandia = 13 ;
 }
